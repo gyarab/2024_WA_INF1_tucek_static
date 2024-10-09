@@ -7,3 +7,6 @@
 - bohemka je shit
 	- furt lepší než slavie ale
 ![](https://static.scientificamerican.com/sciam/cache/file/2AE14CDD-1265-470C-9B15F49024186C10_source.jpg?w=1200)
+
+
+tenhle repozit85 obsahuje webovou str8nku index.html a style.css
